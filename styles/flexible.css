@@ -1,0 +1,10 @@
+.container{
+  display: flex;
+  gap: 20px;
+}
+
+.box{
+  background-color: slateblue;
+  padding: 20px;
+  border-radius: 20px;
+}
